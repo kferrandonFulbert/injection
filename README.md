@@ -13,6 +13,9 @@ Elle fait appel a votre entreprise spécialisée dans la sécurité informatique
 Vous êtes le consultant qui a été choisi pour trouver la faille et produire un exemple d'attaque pour faire une démonstration au client, 
 puis proposer mettre des protections en place pour que le problème ne se reproduise pas.
 
+## Installation
+Installer la solution en local sur votre poste (pensez à récupérer le script de bdd)
+
 ## Chercher une faille
 Trouver une faille dans le site puis essayez de trouver une facon d'injecter du code malvaillant. 
 L'objectif: Vous devez rediriger tous les utilisateurs sur https://www.lyceefulbert.fr/ .
