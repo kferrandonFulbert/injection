@@ -5,6 +5,10 @@ est un groupe de méthodes d'exploitation de faille de sécurité d'une applicat
 Elle permet d'injecter dans la requête SQL en cours un morceau de requête non prévu par le système et pouvant en compromettre la sécurité.
 Plus d'info: https://www.hacksplaining.com/exercises/sql-injection
 
+## Rappel
+Le fait d'accéder ou de se maintenir, frauduleusement, dans tout ou partie d'un système de traitement automatisé de données est puni de deux ans d'emprisonnement et de 60 000 € d'amende.
+Le but est de comprendre le principe de l'attaque afin de mettre en place la sécurité adequat.
+
 ## Context Mario-no parfum
 
 Mario-no est un site E-commerce spécialisé dans la vente de parfum. 
